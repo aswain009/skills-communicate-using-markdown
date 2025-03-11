@@ -9,8 +9,8 @@ This is to better understand and provide a refresher of how to use the MD langua
 
 Seeing if PHP code works, kind of.
 ```PHP
-<php
-echo "I wonder if this works?"
+<?php
+echo "I wonder if this works?";
 ?>
 ```
 
